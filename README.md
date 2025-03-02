@@ -1,6 +1,6 @@
 # CookeJar
 An application that simulates a Cookie Jar. <br>
-Depositing cookies into the Jar andwithdraw cookies from the Jar
+Depositing cookies into the Jar and withdraw cookies from the Jar
 
 The application was implemented as a CS50P assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
