@@ -1,4 +1,4 @@
-#   CookieJar Test File
+#   CookieJar test suite.
 import pytest
 from app import Jar
 
