@@ -1,3 +1,5 @@
+#  Basic Cookie Jar simulator
+
 class Jar:
 
     def __init__(self, capacity = 12):
